@@ -8,4 +8,5 @@ vue-router:3.2.0
 vuex:3.4.0  
 echarts:4.8.0  
 element-ui:2.13.2  
+***
 - 暂存未解决bug，空余时间维护
